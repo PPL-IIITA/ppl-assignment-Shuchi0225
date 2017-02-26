@@ -5,12 +5,11 @@ ppl-assignment-Shuchi Dwivedi(Rit2015073)
 
 Command for Terminal in Linux: $cd NetBeansProjects/ppl/build/classes
 
-for q1 : $java pplassignment.q1_main
+for q1 : $java ppl.main1
 
-for q2 : $java pplassignment.q2_main
+for q2 : $java ppl.main2
 
 
 For Windows : build on NetBeans IDE 8.2
-
 
 View generated files in NetBeansProjects/ppl
