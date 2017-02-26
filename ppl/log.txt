@@ -1,0 +1,74 @@
+girl_0 got committed to boy_0
+girl_1 got committed to boy_4
+girl_2 got committed to boy_6
+girl_3 got committed to boy_10
+girl_4 got committed to boy_12
+girl_5 got committed to boy_14
+girl_6 got committed to boy_16
+girl_7 got committed to boy_18
+girl_8 got committed to boy_21
+girl_9 got committed to boy_22
+girl_10 got committed to boy_30
+girl_11 got committed to boy_32
+girl_12 got committed to boy_34
+girl_13 got committed to boy_35
+boy_0 gave essential gift to girl_0 with price=698 and value=322
+boy_0 gave luxury gift to girl_0 with price=1568 and value1511
+boy_4 gave essential gift to girl_1 with price=698 and value=322
+boy_4 gave essential gift to girl_1 with price=719 and value=210
+boy_4 gave essential gift to girl_1 with price=813 and value=547
+boy_4 gave utility gift to girl_1 with price=824 and value=868
+boy_6 gave essential gift to girl_2 with price=698 and value=322
+boy_6 gave luxury gift to girl_2 with price=1568 and value1511
+boy_6 gave essential gift to girl_2 with price=719 and value=210
+boy_10 gave essential gift to girl_3 with price=698 and value=322
+boy_10 gave essential gift to girl_3 with price=719 and value=210
+boy_10 gave essential gift to girl_3 with price=813 and value=547
+boy_10 gave utility gift to girl_3 with price=824 and value=868
+boy_12 gave essential gift to girl_4 with price=698 and value=322
+boy_12 gave essential gift to girl_4 with price=719 and value=210
+boy_12 gave essential gift to girl_4 with price=813 and value=547
+boy_12 gave utility gift to girl_4 with price=824 and value=868
+boy_12 gave essential gift to girl_4 with price=826 and value=431
+boy_12 gave utility gift to girl_4 with price=927 and value=723
+boy_14 gave essential gift to girl_5 with price=698 and value=322
+boy_14 gave luxury gift to girl_5 with price=1568 and value1511
+boy_14 gave essential gift to girl_5 with price=719 and value=210
+boy_14 gave essential gift to girl_5 with price=813 and value=547
+boy_16 gave essential gift to girl_6 with price=698 and value=322
+boy_16 gave essential gift to girl_6 with price=719 and value=210
+boy_16 gave essential gift to girl_6 with price=813 and value=547
+boy_16 gave utility gift to girl_6 with price=824 and value=868
+boy_16 gave essential gift to girl_6 with price=826 and value=431
+boy_18 gave essential gift to girl_7 with price=698 and value=322
+boy_18 gave essential gift to girl_7 with price=719 and value=210
+boy_18 gave essential gift to girl_7 with price=813 and value=547
+boy_18 gave utility gift to girl_7 with price=824 and value=868
+boy_18 gave essential gift to girl_7 with price=826 and value=431
+boy_18 gave utility gift to girl_7 with price=927 and value=723
+boy_18 gave essential gift to girl_7 with price=1006 and value=415
+boy_21 gave essential gift to girl_8 with price=698 and value=322
+boy_21 gave essential gift to girl_8 with price=719 and value=210
+boy_21 gave essential gift to girl_8 with price=813 and value=547
+boy_21 gave utility gift to girl_8 with price=824 and value=868
+boy_21 gave essential gift to girl_8 with price=826 and value=431
+boy_22 gave essential gift to girl_9 with price=698 and value=322
+boy_22 gave essential gift to girl_9 with price=719 and value=210
+boy_22 gave essential gift to girl_9 with price=813 and value=547
+boy_22 gave utility gift to girl_9 with price=824 and value=868
+boy_30 gave essential gift to girl_10 with price=698 and value=322
+boy_30 gave essential gift to girl_10 with price=719 and value=210
+boy_30 gave essential gift to girl_10 with price=813 and value=547
+boy_32 gave essential gift to girl_11 with price=698 and value=322
+boy_32 gave essential gift to girl_11 with price=719 and value=210
+boy_32 gave essential gift to girl_11 with price=813 and value=547
+boy_32 gave utility gift to girl_11 with price=824 and value=868
+boy_34 gave essential gift to girl_12 with price=698 and value=322
+boy_34 gave essential gift to girl_12 with price=719 and value=210
+boy_34 gave essential gift to girl_12 with price=813 and value=547
+boy_34 gave utility gift to girl_12 with price=824 and value=868
+boy_34 gave essential gift to girl_12 with price=826 and value=431
+boy_35 gave essential gift to girl_13 with price=698 and value=322
+boy_35 gave luxury gift to girl_13 with price=1568 and value1511
+boy_35 gave essential gift to girl_13 with price=719 and value=210
+boy_35 gave essential gift to girl_13 with price=813 and value=547
