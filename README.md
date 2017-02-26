@@ -5,9 +5,9 @@ ppl-assignment-Shuchi Dwivedi(Rit2015073)
 
 Command for Terminal in Linux: $cd NetBeansProjects/ppl/build/classes
 
-for q1 : $java ppl.main1
+for q1 : $java assignment.main1
 
-for q2 : $java ppl.main2
+for q2 : $java assignment.main2
 
 
 For Windows : build on NetBeans IDE 8.2
