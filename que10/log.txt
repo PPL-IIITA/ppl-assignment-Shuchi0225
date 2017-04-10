@@ -1,0 +1,9 @@
+girl_1 got committed to boy_15 at 2017-04-10 07:00:05.407
+girl_7 got committed to boy_1 at 2017-04-10 07:00:05.431
+girl_11 got committed to boy_7 at 2017-04-10 07:00:05.431
+boy_15 gave luxury gift to girl_1 with price=1616 and value=1918 at 2017-04-10 07:00:05.447
+boy_15 gave luxury gift to girl_1 with price=3207 and value=1121 at 2017-04-10 07:00:05.447
+boy_1 gave luxury gift to girl_7 with price=1616 and value=1918 at 2017-04-10 07:00:05.447
+boy_1 gave luxury gift to girl_7 with price=3207 and value=1121 at 2017-04-10 07:00:05.447
+boy_7 gave luxury gift to girl_11 with price=1616 and value=1918 at 2017-04-10 07:00:05.447
+boy_7 gave luxury gift to girl_11 with price=3207 and value=1121 at 2017-04-10 07:00:05.447
