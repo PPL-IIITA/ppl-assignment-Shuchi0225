@@ -14,7 +14,7 @@ For Windows : build on NetBeans IDE 8.2
 
 View generated files in NetBeansProjects/ppl
 
-Details for running and building question 3-10 can be viewed in:
+Details of running , building and class diagrams and other activities for question 3-10 can be viewed in:
 
 for 3 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/run.txt
 
