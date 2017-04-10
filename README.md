@@ -18,17 +18,17 @@ Details of running , building and class diagrams and other activities for questi
 
 for 3 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/run.txt
 
-for 4 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que4/run.txt
+for 4 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que4/run.txt
 
-for 5 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que5/run.txt
+for 5 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que5/run.txt
 
-for 6 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/run.txt
+for 6 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que6/run.txt
 
-for 7 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que7/run.txt
+for 7 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que7/run.txt
 
-for 8 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/run.txt
+for 8 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que8/run.txt
 
-for 9 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que9/run.txt
+for 9 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que9/run.txt
 
-for 10: https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que10/run.txt
+for 10: https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que10/run.txt
 
