@@ -16,7 +16,7 @@ View generated files in NetBeansProjects/ppl
 
 Details of running , building and class diagrams and other activities for question 3-10 can be viewed in:
 
-for 3 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/run.txt
+for 3 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/run.txt
 
 for 4 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que4/run.txt
 
