@@ -1,0 +1,49 @@
+Contents : 
+
+	Build details
+	Deployment and Testing
+	Documentation
+	Class Diagrams
+	View generated files
+
+
+Build Details--
+
+Developed and Tested on:
+
+Nestbeans Version: NetBeans IDE 8.0.2
+Java: 1.8.0_101; Java HotSpot(TM) 64-Bit Server VM 25.101-b13
+Runtime: Java(TM) SE Runtime Environment 1.8.0_101-b13
+System: Windows 8.1 version 6.3 running on amd64
+
+
+Deployment and Testing--
+
+$ git clone https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225
+
+Change to directory:
+$ cd ppl-assignment-Shuchi0225/que6/build/classes
+
+alternatively,
+$ cd ppl-assignment-Shuchi0225/que6/src
+$ javac *.java
+$ cd ..
+
+To run question 6
+$ java ass.main6
+
+
+Documentation--
+
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/dist/javadoc
+
+Class Diagrams--
+
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/dia6.png
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/dia6.pdf
+
+View generated files--
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/girl.csv  : stores details of girls
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/boy.csv  : stores details of boys
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/gift.csv  : stores details of gifts
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que6/log.txt  : stores details of commitments, breakups and giting

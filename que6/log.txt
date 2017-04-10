@@ -1,0 +1,339 @@
+girl_0 got committed to boy_2 at 2017-04-10 07:05:07.843
+girl_1 got committed to boy_3 at 2017-04-10 07:05:07.843
+girl_2 got committed to boy_10 at 2017-04-10 07:05:07.843
+girl_3 got committed to boy_12 at 2017-04-10 07:05:07.843
+girl_4 got committed to boy_13 at 2017-04-10 07:05:07.843
+girl_5 got committed to boy_14 at 2017-04-10 07:05:07.843
+girl_6 got committed to boy_54 at 2017-04-10 07:05:07.843
+girl_7 got committed to boy_60 at 2017-04-10 07:05:07.843
+girl_8 got committed to boy_62 at 2017-04-10 07:05:07.843
+girl_9 got committed to boy_63 at 2017-04-10 07:05:07.843
+girl_10 got committed to boy_64 at 2017-04-10 07:05:07.843
+girl_11 got committed to boy_65 at 2017-04-10 07:05:07.843
+girl_12 got committed to boy_72 at 2017-04-10 07:05:07.843
+girl_13 got committed to boy_73 at 2017-04-10 07:05:07.843
+boy_2 gave essential gift to girl_0 with price=752 and value=323 at 2017-04-10 07:05:07.891
+boy_2 gave essential gift to girl_0 with price=858 and value=239 at 2017-04-10 07:05:07.895
+boy_2 gave essential gift to girl_0 with price=861 and value=344 at 2017-04-10 07:05:07.895
+boy_3 gave essential gift to girl_1 with price=752 and value=323 at 2017-04-10 07:05:07.895
+boy_3 gave essential gift to girl_1 with price=858 and value=239 at 2017-04-10 07:05:07.895
+boy_3 gave essential gift to girl_1 with price=861 and value=344 at 2017-04-10 07:05:07.895
+boy_10 gave essential gift to girl_2 with price=752 and value=323 at 2017-04-10 07:05:07.895
+boy_10 gave essential gift to girl_2 with price=858 and value=239 at 2017-04-10 07:05:07.895
+boy_10 gave essential gift to girl_2 with price=861 and value=344 at 2017-04-10 07:05:07.899
+boy_10 gave utility gift to girl_2 with price=929 and value=898 at 2017-04-10 07:05:07.899
+boy_12 gave essential gift to girl_3 with price=752 and value=323 at 2017-04-10 07:05:07.899
+boy_12 gave essential gift to girl_3 with price=858 and value=239 at 2017-04-10 07:05:07.899
+boy_12 gave essential gift to girl_3 with price=861 and value=344 at 2017-04-10 07:05:07.899
+boy_13 gave essential gift to girl_4 with price=752 and value=323 at 2017-04-10 07:05:07.899
+boy_13 gave essential gift to girl_4 with price=858 and value=239 at 2017-04-10 07:05:07.899
+boy_13 gave essential gift to girl_4 with price=861 and value=344 at 2017-04-10 07:05:07.899
+boy_13 gave utility gift to girl_4 with price=929 and value=898 at 2017-04-10 07:05:07.899
+boy_13 gave utility gift to girl_4 with price=1016 and value=974 at 2017-04-10 07:05:07.903
+boy_14 gave essential gift to girl_5 with price=752 and value=323 at 2017-04-10 07:05:07.903
+boy_14 gave essential gift to girl_5 with price=858 and value=239 at 2017-04-10 07:05:07.903
+boy_14 gave essential gift to girl_5 with price=861 and value=344 at 2017-04-10 07:05:07.903
+boy_54 gave essential gift to girl_6 with price=752 and value=323 at 2017-04-10 07:05:07.903
+boy_54 gave essential gift to girl_6 with price=858 and value=239 at 2017-04-10 07:05:07.903
+boy_54 gave essential gift to girl_6 with price=861 and value=344 at 2017-04-10 07:05:07.903
+boy_54 gave utility gift to girl_6 with price=929 and value=898 at 2017-04-10 07:05:07.903
+boy_60 gave essential gift to girl_7 with price=752 and value=323 at 2017-04-10 07:05:07.907
+boy_60 gave essential gift to girl_7 with price=858 and value=239 at 2017-04-10 07:05:07.911
+boy_60 gave essential gift to girl_7 with price=861 and value=344 at 2017-04-10 07:05:07.911
+boy_60 gave utility gift to girl_7 with price=929 and value=898 at 2017-04-10 07:05:07.911
+boy_62 gave essential gift to girl_8 with price=752 and value=323 at 2017-04-10 07:05:07.911
+boy_62 gave essential gift to girl_8 with price=858 and value=239 at 2017-04-10 07:05:07.911
+boy_62 gave essential gift to girl_8 with price=861 and value=344 at 2017-04-10 07:05:07.915
+boy_62 gave utility gift to girl_8 with price=929 and value=898 at 2017-04-10 07:05:07.915
+boy_62 gave utility gift to girl_8 with price=1016 and value=974 at 2017-04-10 07:05:07.915
+boy_63 gave essential gift to girl_9 with price=752 and value=323 at 2017-04-10 07:05:07.915
+boy_63 gave essential gift to girl_9 with price=858 and value=239 at 2017-04-10 07:05:07.915
+boy_63 gave essential gift to girl_9 with price=861 and value=344 at 2017-04-10 07:05:07.915
+boy_63 gave utility gift to girl_9 with price=929 and value=898 at 2017-04-10 07:05:07.919
+boy_63 gave utility gift to girl_9 with price=1016 and value=974 at 2017-04-10 07:05:07.919
+boy_64 gave essential gift to girl_10 with price=752 and value=323 at 2017-04-10 07:05:07.919
+boy_64 gave essential gift to girl_10 with price=858 and value=239 at 2017-04-10 07:05:07.919
+boy_64 gave essential gift to girl_10 with price=861 and value=344 at 2017-04-10 07:05:07.927
+boy_64 gave utility gift to girl_10 with price=929 and value=898 at 2017-04-10 07:05:07.927
+boy_65 gave essential gift to girl_11 with price=752 and value=323 at 2017-04-10 07:05:07.927
+boy_65 gave essential gift to girl_11 with price=858 and value=239 at 2017-04-10 07:05:07.927
+boy_65 gave essential gift to girl_11 with price=861 and value=344 at 2017-04-10 07:05:07.927
+boy_65 gave utility gift to girl_11 with price=929 and value=898 at 2017-04-10 07:05:07.931
+boy_72 gave essential gift to girl_12 with price=752 and value=323 at 2017-04-10 07:05:07.931
+boy_72 gave essential gift to girl_12 with price=858 and value=239 at 2017-04-10 07:05:07.931
+boy_72 gave essential gift to girl_12 with price=861 and value=344 at 2017-04-10 07:05:07.931
+boy_72 gave utility gift to girl_12 with price=929 and value=898 at 2017-04-10 07:05:07.931
+boy_73 gave essential gift to girl_13 with price=752 and value=323 at 2017-04-10 07:05:07.935
+boy_73 gave essential gift to girl_13 with price=858 and value=239 at 2017-04-10 07:05:07.935
+boy_73 gave essential gift to girl_13 with price=861 and value=344 at 2017-04-10 07:05:07.935
+boy_73 gave utility gift to girl_13 with price=929 and value=898 at 2017-04-10 07:05:07.935
+girl_1 and boy_3 broke up at 2017-04-10 07:05:07.947
+girl_11 and boy_65 broke up at 2017-04-10 07:05:07.947
+girl_13 and boy_73 broke up at 2017-04-10 07:05:07.947
+girl_9 and boy_63 broke up at 2017-04-10 07:05:07.947
+girl_10 and boy_64 broke up at 2017-04-10 07:05:07.951
+girl_1 got committed to boy_5 at 2017-04-10 07:05:07.951
+girl_9 got committed to boy_8 at 2017-04-10 07:05:07.951
+girl_10 got committed to boy_11 at 2017-04-10 07:05:07.951
+girl_11 got committed to boy_15 at 2017-04-10 07:05:07.951
+girl_13 got committed to boy_18 at 2017-04-10 07:05:07.955
+boy_2 gave essential gift to girl_0 with price=752 and value=323 at 2017-04-10 07:05:07.955
+boy_2 gave essential gift to girl_0 with price=858 and value=239 at 2017-04-10 07:05:07.955
+boy_2 gave essential gift to girl_0 with price=861 and value=344 at 2017-04-10 07:05:07.959
+boy_3 gave essential gift to girl_1 with price=752 and value=323 at 2017-04-10 07:05:07.959
+boy_3 gave essential gift to girl_1 with price=858 and value=239 at 2017-04-10 07:05:07.959
+boy_3 gave essential gift to girl_1 with price=861 and value=344 at 2017-04-10 07:05:07.959
+boy_10 gave essential gift to girl_2 with price=752 and value=323 at 2017-04-10 07:05:07.959
+boy_10 gave essential gift to girl_2 with price=858 and value=239 at 2017-04-10 07:05:07.963
+boy_10 gave essential gift to girl_2 with price=861 and value=344 at 2017-04-10 07:05:07.963
+boy_10 gave utility gift to girl_2 with price=929 and value=898 at 2017-04-10 07:05:07.963
+boy_12 gave essential gift to girl_3 with price=752 and value=323 at 2017-04-10 07:05:07.967
+boy_12 gave essential gift to girl_3 with price=858 and value=239 at 2017-04-10 07:05:07.967
+boy_12 gave essential gift to girl_3 with price=861 and value=344 at 2017-04-10 07:05:07.967
+boy_13 gave essential gift to girl_4 with price=752 and value=323 at 2017-04-10 07:05:07.967
+boy_13 gave essential gift to girl_4 with price=858 and value=239 at 2017-04-10 07:05:07.967
+boy_13 gave essential gift to girl_4 with price=861 and value=344 at 2017-04-10 07:05:07.967
+boy_13 gave utility gift to girl_4 with price=929 and value=898 at 2017-04-10 07:05:07.967
+boy_13 gave utility gift to girl_4 with price=1016 and value=974 at 2017-04-10 07:05:07.967
+boy_14 gave essential gift to girl_5 with price=752 and value=323 at 2017-04-10 07:05:07.967
+boy_14 gave essential gift to girl_5 with price=858 and value=239 at 2017-04-10 07:05:07.971
+boy_14 gave essential gift to girl_5 with price=861 and value=344 at 2017-04-10 07:05:07.971
+boy_54 gave essential gift to girl_6 with price=752 and value=323 at 2017-04-10 07:05:07.971
+boy_54 gave essential gift to girl_6 with price=858 and value=239 at 2017-04-10 07:05:07.971
+boy_54 gave essential gift to girl_6 with price=861 and value=344 at 2017-04-10 07:05:07.971
+boy_54 gave utility gift to girl_6 with price=929 and value=898 at 2017-04-10 07:05:07.971
+boy_60 gave essential gift to girl_7 with price=752 and value=323 at 2017-04-10 07:05:07.975
+boy_60 gave essential gift to girl_7 with price=858 and value=239 at 2017-04-10 07:05:07.975
+boy_60 gave essential gift to girl_7 with price=861 and value=344 at 2017-04-10 07:05:07.975
+boy_60 gave utility gift to girl_7 with price=929 and value=898 at 2017-04-10 07:05:07.975
+boy_62 gave essential gift to girl_8 with price=752 and value=323 at 2017-04-10 07:05:07.975
+boy_62 gave essential gift to girl_8 with price=858 and value=239 at 2017-04-10 07:05:07.975
+boy_62 gave essential gift to girl_8 with price=861 and value=344 at 2017-04-10 07:05:07.979
+boy_62 gave utility gift to girl_8 with price=929 and value=898 at 2017-04-10 07:05:07.979
+boy_62 gave utility gift to girl_8 with price=1016 and value=974 at 2017-04-10 07:05:07.979
+boy_63 gave essential gift to girl_9 with price=752 and value=323 at 2017-04-10 07:05:07.979
+boy_63 gave essential gift to girl_9 with price=858 and value=239 at 2017-04-10 07:05:07.983
+boy_63 gave essential gift to girl_9 with price=861 and value=344 at 2017-04-10 07:05:07.983
+boy_63 gave utility gift to girl_9 with price=929 and value=898 at 2017-04-10 07:05:07.983
+boy_63 gave utility gift to girl_9 with price=1016 and value=974 at 2017-04-10 07:05:07.987
+boy_64 gave essential gift to girl_10 with price=752 and value=323 at 2017-04-10 07:05:07.987
+boy_64 gave essential gift to girl_10 with price=858 and value=239 at 2017-04-10 07:05:07.987
+boy_64 gave essential gift to girl_10 with price=861 and value=344 at 2017-04-10 07:05:07.991
+boy_64 gave utility gift to girl_10 with price=929 and value=898 at 2017-04-10 07:05:07.991
+boy_65 gave essential gift to girl_11 with price=752 and value=323 at 2017-04-10 07:05:07.991
+boy_65 gave essential gift to girl_11 with price=858 and value=239 at 2017-04-10 07:05:07.991
+boy_65 gave essential gift to girl_11 with price=861 and value=344 at 2017-04-10 07:05:07.991
+boy_65 gave utility gift to girl_11 with price=929 and value=898 at 2017-04-10 07:05:07.991
+boy_72 gave essential gift to girl_12 with price=752 and value=323 at 2017-04-10 07:05:07.991
+boy_72 gave essential gift to girl_12 with price=858 and value=239 at 2017-04-10 07:05:07.991
+boy_72 gave essential gift to girl_12 with price=861 and value=344 at 2017-04-10 07:05:07.991
+boy_72 gave utility gift to girl_12 with price=929 and value=898 at 2017-04-10 07:05:07.995
+boy_73 gave essential gift to girl_13 with price=752 and value=323 at 2017-04-10 07:05:07.995
+boy_73 gave essential gift to girl_13 with price=858 and value=239 at 2017-04-10 07:05:07.995
+boy_73 gave essential gift to girl_13 with price=861 and value=344 at 2017-04-10 07:05:07.995
+boy_73 gave utility gift to girl_13 with price=929 and value=898 at 2017-04-10 07:05:07.995
+girl_1 and boy_3 broke up at 2017-04-10 07:05:07.995
+girl_11 and boy_65 broke up at 2017-04-10 07:05:07.995
+girl_13 and boy_73 broke up at 2017-04-10 07:05:07.995
+girl_9 and boy_63 broke up at 2017-04-10 07:05:07.999
+girl_10 and boy_64 broke up at 2017-04-10 07:05:07.999
+girl_1 got committed to boy_3 at 2017-04-10 07:05:08.015
+girl_9 got committed to boy_4 at 2017-04-10 07:05:08.019
+girl_10 got committed to boy_16 at 2017-04-10 07:05:08.019
+girl_11 got committed to boy_19 at 2017-04-10 07:05:08.019
+girl_13 got committed to boy_20 at 2017-04-10 07:05:08.019
+boy_2 gave essential gift to girl_0 with price=752 and value=323 at 2017-04-10 07:05:08.019
+boy_2 gave essential gift to girl_0 with price=858 and value=239 at 2017-04-10 07:05:08.019
+boy_2 gave essential gift to girl_0 with price=861 and value=344 at 2017-04-10 07:05:08.019
+boy_3 gave essential gift to girl_1 with price=752 and value=323 at 2017-04-10 07:05:08.023
+boy_3 gave essential gift to girl_1 with price=858 and value=239 at 2017-04-10 07:05:08.023
+boy_3 gave essential gift to girl_1 with price=861 and value=344 at 2017-04-10 07:05:08.023
+boy_10 gave essential gift to girl_2 with price=752 and value=323 at 2017-04-10 07:05:08.023
+boy_10 gave essential gift to girl_2 with price=858 and value=239 at 2017-04-10 07:05:08.023
+boy_10 gave essential gift to girl_2 with price=861 and value=344 at 2017-04-10 07:05:08.023
+boy_10 gave utility gift to girl_2 with price=929 and value=898 at 2017-04-10 07:05:08.023
+boy_12 gave essential gift to girl_3 with price=752 and value=323 at 2017-04-10 07:05:08.023
+boy_12 gave essential gift to girl_3 with price=858 and value=239 at 2017-04-10 07:05:08.023
+boy_12 gave essential gift to girl_3 with price=861 and value=344 at 2017-04-10 07:05:08.023
+boy_13 gave essential gift to girl_4 with price=752 and value=323 at 2017-04-10 07:05:08.027
+boy_13 gave essential gift to girl_4 with price=858 and value=239 at 2017-04-10 07:05:08.027
+boy_13 gave essential gift to girl_4 with price=861 and value=344 at 2017-04-10 07:05:08.027
+boy_13 gave utility gift to girl_4 with price=929 and value=898 at 2017-04-10 07:05:08.027
+boy_13 gave utility gift to girl_4 with price=1016 and value=974 at 2017-04-10 07:05:08.027
+boy_14 gave essential gift to girl_5 with price=752 and value=323 at 2017-04-10 07:05:08.027
+boy_14 gave essential gift to girl_5 with price=858 and value=239 at 2017-04-10 07:05:08.027
+boy_14 gave essential gift to girl_5 with price=861 and value=344 at 2017-04-10 07:05:08.027
+boy_54 gave essential gift to girl_6 with price=752 and value=323 at 2017-04-10 07:05:08.027
+boy_54 gave essential gift to girl_6 with price=858 and value=239 at 2017-04-10 07:05:08.027
+boy_54 gave essential gift to girl_6 with price=861 and value=344 at 2017-04-10 07:05:08.027
+boy_54 gave utility gift to girl_6 with price=929 and value=898 at 2017-04-10 07:05:08.027
+boy_60 gave essential gift to girl_7 with price=752 and value=323 at 2017-04-10 07:05:08.031
+boy_60 gave essential gift to girl_7 with price=858 and value=239 at 2017-04-10 07:05:08.031
+boy_60 gave essential gift to girl_7 with price=861 and value=344 at 2017-04-10 07:05:08.031
+boy_60 gave utility gift to girl_7 with price=929 and value=898 at 2017-04-10 07:05:08.031
+boy_62 gave essential gift to girl_8 with price=752 and value=323 at 2017-04-10 07:05:08.031
+boy_62 gave essential gift to girl_8 with price=858 and value=239 at 2017-04-10 07:05:08.051
+boy_62 gave essential gift to girl_8 with price=861 and value=344 at 2017-04-10 07:05:08.051
+boy_62 gave utility gift to girl_8 with price=929 and value=898 at 2017-04-10 07:05:08.055
+boy_62 gave utility gift to girl_8 with price=1016 and value=974 at 2017-04-10 07:05:08.055
+boy_63 gave essential gift to girl_9 with price=752 and value=323 at 2017-04-10 07:05:08.059
+boy_63 gave essential gift to girl_9 with price=858 and value=239 at 2017-04-10 07:05:08.059
+boy_63 gave essential gift to girl_9 with price=861 and value=344 at 2017-04-10 07:05:08.059
+boy_63 gave utility gift to girl_9 with price=929 and value=898 at 2017-04-10 07:05:08.063
+boy_63 gave utility gift to girl_9 with price=1016 and value=974 at 2017-04-10 07:05:08.063
+boy_64 gave essential gift to girl_10 with price=752 and value=323 at 2017-04-10 07:05:08.063
+boy_64 gave essential gift to girl_10 with price=858 and value=239 at 2017-04-10 07:05:08.063
+boy_64 gave essential gift to girl_10 with price=861 and value=344 at 2017-04-10 07:05:08.067
+boy_64 gave utility gift to girl_10 with price=929 and value=898 at 2017-04-10 07:05:08.071
+boy_65 gave essential gift to girl_11 with price=752 and value=323 at 2017-04-10 07:05:08.071
+boy_65 gave essential gift to girl_11 with price=858 and value=239 at 2017-04-10 07:05:08.071
+boy_65 gave essential gift to girl_11 with price=861 and value=344 at 2017-04-10 07:05:08.075
+boy_65 gave utility gift to girl_11 with price=929 and value=898 at 2017-04-10 07:05:08.079
+boy_72 gave essential gift to girl_12 with price=752 and value=323 at 2017-04-10 07:05:08.079
+boy_72 gave essential gift to girl_12 with price=858 and value=239 at 2017-04-10 07:05:08.083
+boy_72 gave essential gift to girl_12 with price=861 and value=344 at 2017-04-10 07:05:08.083
+boy_72 gave utility gift to girl_12 with price=929 and value=898 at 2017-04-10 07:05:08.083
+boy_73 gave essential gift to girl_13 with price=752 and value=323 at 2017-04-10 07:05:08.087
+boy_73 gave essential gift to girl_13 with price=858 and value=239 at 2017-04-10 07:05:08.087
+boy_73 gave essential gift to girl_13 with price=861 and value=344 at 2017-04-10 07:05:08.087
+boy_73 gave utility gift to girl_13 with price=929 and value=898 at 2017-04-10 07:05:08.087
+girl_1 and boy_3 broke up at 2017-04-10 07:05:08.091
+girl_11 and boy_65 broke up at 2017-04-10 07:05:08.091
+girl_13 and boy_73 broke up at 2017-04-10 07:05:08.091
+girl_9 and boy_63 broke up at 2017-04-10 07:05:08.091
+girl_10 and boy_64 broke up at 2017-04-10 07:05:08.095
+girl_1 got committed to boy_7 at 2017-04-10 07:05:08.095
+girl_9 got committed to boy_21 at 2017-04-10 07:05:08.095
+girl_10 got committed to boy_22 at 2017-04-10 07:05:08.095
+girl_11 got committed to boy_23 at 2017-04-10 07:05:08.095
+girl_13 got committed to boy_24 at 2017-04-10 07:05:08.095
+boy_2 gave essential gift to girl_0 with price=752 and value=323 at 2017-04-10 07:05:08.099
+boy_2 gave essential gift to girl_0 with price=858 and value=239 at 2017-04-10 07:05:08.103
+boy_2 gave essential gift to girl_0 with price=861 and value=344 at 2017-04-10 07:05:08.103
+boy_3 gave essential gift to girl_1 with price=752 and value=323 at 2017-04-10 07:05:08.103
+boy_3 gave essential gift to girl_1 with price=858 and value=239 at 2017-04-10 07:05:08.103
+boy_3 gave essential gift to girl_1 with price=861 and value=344 at 2017-04-10 07:05:08.107
+boy_10 gave essential gift to girl_2 with price=752 and value=323 at 2017-04-10 07:05:08.107
+boy_10 gave essential gift to girl_2 with price=858 and value=239 at 2017-04-10 07:05:08.107
+boy_10 gave essential gift to girl_2 with price=861 and value=344 at 2017-04-10 07:05:08.111
+boy_10 gave utility gift to girl_2 with price=929 and value=898 at 2017-04-10 07:05:08.111
+boy_12 gave essential gift to girl_3 with price=752 and value=323 at 2017-04-10 07:05:08.111
+boy_12 gave essential gift to girl_3 with price=858 and value=239 at 2017-04-10 07:05:08.111
+boy_12 gave essential gift to girl_3 with price=861 and value=344 at 2017-04-10 07:05:08.119
+boy_13 gave essential gift to girl_4 with price=752 and value=323 at 2017-04-10 07:05:08.123
+boy_13 gave essential gift to girl_4 with price=858 and value=239 at 2017-04-10 07:05:08.123
+boy_13 gave essential gift to girl_4 with price=861 and value=344 at 2017-04-10 07:05:08.123
+boy_13 gave utility gift to girl_4 with price=929 and value=898 at 2017-04-10 07:05:08.123
+boy_13 gave utility gift to girl_4 with price=1016 and value=974 at 2017-04-10 07:05:08.123
+boy_14 gave essential gift to girl_5 with price=752 and value=323 at 2017-04-10 07:05:08.123
+boy_14 gave essential gift to girl_5 with price=858 and value=239 at 2017-04-10 07:05:08.123
+boy_14 gave essential gift to girl_5 with price=861 and value=344 at 2017-04-10 07:05:08.123
+boy_54 gave essential gift to girl_6 with price=752 and value=323 at 2017-04-10 07:05:08.127
+boy_54 gave essential gift to girl_6 with price=858 and value=239 at 2017-04-10 07:05:08.127
+boy_54 gave essential gift to girl_6 with price=861 and value=344 at 2017-04-10 07:05:08.131
+boy_54 gave utility gift to girl_6 with price=929 and value=898 at 2017-04-10 07:05:08.131
+boy_60 gave essential gift to girl_7 with price=752 and value=323 at 2017-04-10 07:05:08.131
+boy_60 gave essential gift to girl_7 with price=858 and value=239 at 2017-04-10 07:05:08.135
+boy_60 gave essential gift to girl_7 with price=861 and value=344 at 2017-04-10 07:05:08.135
+boy_60 gave utility gift to girl_7 with price=929 and value=898 at 2017-04-10 07:05:08.135
+boy_62 gave essential gift to girl_8 with price=752 and value=323 at 2017-04-10 07:05:08.135
+boy_62 gave essential gift to girl_8 with price=858 and value=239 at 2017-04-10 07:05:08.135
+boy_62 gave essential gift to girl_8 with price=861 and value=344 at 2017-04-10 07:05:08.139
+boy_62 gave utility gift to girl_8 with price=929 and value=898 at 2017-04-10 07:05:08.139
+boy_62 gave utility gift to girl_8 with price=1016 and value=974 at 2017-04-10 07:05:08.139
+boy_63 gave essential gift to girl_9 with price=752 and value=323 at 2017-04-10 07:05:08.139
+boy_63 gave essential gift to girl_9 with price=858 and value=239 at 2017-04-10 07:05:08.139
+boy_63 gave essential gift to girl_9 with price=861 and value=344 at 2017-04-10 07:05:08.139
+boy_63 gave utility gift to girl_9 with price=929 and value=898 at 2017-04-10 07:05:08.139
+boy_63 gave utility gift to girl_9 with price=1016 and value=974 at 2017-04-10 07:05:08.139
+boy_64 gave essential gift to girl_10 with price=752 and value=323 at 2017-04-10 07:05:08.139
+boy_64 gave essential gift to girl_10 with price=858 and value=239 at 2017-04-10 07:05:08.139
+boy_64 gave essential gift to girl_10 with price=861 and value=344 at 2017-04-10 07:05:08.139
+boy_64 gave utility gift to girl_10 with price=929 and value=898 at 2017-04-10 07:05:08.139
+boy_65 gave essential gift to girl_11 with price=752 and value=323 at 2017-04-10 07:05:08.139
+boy_65 gave essential gift to girl_11 with price=858 and value=239 at 2017-04-10 07:05:08.139
+boy_65 gave essential gift to girl_11 with price=861 and value=344 at 2017-04-10 07:05:08.139
+boy_65 gave utility gift to girl_11 with price=929 and value=898 at 2017-04-10 07:05:08.139
+boy_72 gave essential gift to girl_12 with price=752 and value=323 at 2017-04-10 07:05:08.151
+boy_72 gave essential gift to girl_12 with price=858 and value=239 at 2017-04-10 07:05:08.151
+boy_72 gave essential gift to girl_12 with price=861 and value=344 at 2017-04-10 07:05:08.151
+boy_72 gave utility gift to girl_12 with price=929 and value=898 at 2017-04-10 07:05:08.151
+boy_73 gave essential gift to girl_13 with price=752 and value=323 at 2017-04-10 07:05:08.155
+boy_73 gave essential gift to girl_13 with price=858 and value=239 at 2017-04-10 07:05:08.155
+boy_73 gave essential gift to girl_13 with price=861 and value=344 at 2017-04-10 07:05:08.155
+boy_73 gave utility gift to girl_13 with price=929 and value=898 at 2017-04-10 07:05:08.155
+girl_1 and boy_3 broke up at 2017-04-10 07:05:08.231
+girl_11 and boy_65 broke up at 2017-04-10 07:05:08.291
+girl_13 and boy_73 broke up at 2017-04-10 07:05:08.291
+girl_9 and boy_63 broke up at 2017-04-10 07:05:08.291
+girl_10 and boy_64 broke up at 2017-04-10 07:05:08.311
+girl_1 got committed to boy_3 at 2017-04-10 07:05:08.315
+girl_9 got committed to boy_25 at 2017-04-10 07:05:08.315
+girl_10 got committed to boy_26 at 2017-04-10 07:05:08.319
+girl_11 got committed to boy_27 at 2017-04-10 07:05:08.319
+girl_13 got committed to boy_30 at 2017-04-10 07:05:08.319
+boy_2 gave essential gift to girl_0 with price=752 and value=323 at 2017-04-10 07:05:08.323
+boy_2 gave essential gift to girl_0 with price=858 and value=239 at 2017-04-10 07:05:08.323
+boy_2 gave essential gift to girl_0 with price=861 and value=344 at 2017-04-10 07:05:08.323
+boy_3 gave essential gift to girl_1 with price=752 and value=323 at 2017-04-10 07:05:08.327
+boy_3 gave essential gift to girl_1 with price=858 and value=239 at 2017-04-10 07:05:08.327
+boy_3 gave essential gift to girl_1 with price=861 and value=344 at 2017-04-10 07:05:08.327
+boy_10 gave essential gift to girl_2 with price=752 and value=323 at 2017-04-10 07:05:08.327
+boy_10 gave essential gift to girl_2 with price=858 and value=239 at 2017-04-10 07:05:08.331
+boy_10 gave essential gift to girl_2 with price=861 and value=344 at 2017-04-10 07:05:08.331
+boy_10 gave utility gift to girl_2 with price=929 and value=898 at 2017-04-10 07:05:08.331
+boy_12 gave essential gift to girl_3 with price=752 and value=323 at 2017-04-10 07:05:08.339
+boy_12 gave essential gift to girl_3 with price=858 and value=239 at 2017-04-10 07:05:08.343
+boy_12 gave essential gift to girl_3 with price=861 and value=344 at 2017-04-10 07:05:08.343
+boy_13 gave essential gift to girl_4 with price=752 and value=323 at 2017-04-10 07:05:08.343
+boy_13 gave essential gift to girl_4 with price=858 and value=239 at 2017-04-10 07:05:08.343
+boy_13 gave essential gift to girl_4 with price=861 and value=344 at 2017-04-10 07:05:08.347
+boy_13 gave utility gift to girl_4 with price=929 and value=898 at 2017-04-10 07:05:08.347
+boy_13 gave utility gift to girl_4 with price=1016 and value=974 at 2017-04-10 07:05:08.351
+boy_14 gave essential gift to girl_5 with price=752 and value=323 at 2017-04-10 07:05:08.351
+boy_14 gave essential gift to girl_5 with price=858 and value=239 at 2017-04-10 07:05:08.351
+boy_14 gave essential gift to girl_5 with price=861 and value=344 at 2017-04-10 07:05:08.351
+boy_54 gave essential gift to girl_6 with price=752 and value=323 at 2017-04-10 07:05:08.355
+boy_54 gave essential gift to girl_6 with price=858 and value=239 at 2017-04-10 07:05:08.355
+boy_54 gave essential gift to girl_6 with price=861 and value=344 at 2017-04-10 07:05:08.355
+boy_54 gave utility gift to girl_6 with price=929 and value=898 at 2017-04-10 07:05:08.355
+boy_60 gave essential gift to girl_7 with price=752 and value=323 at 2017-04-10 07:05:08.355
+boy_60 gave essential gift to girl_7 with price=858 and value=239 at 2017-04-10 07:05:08.359
+boy_60 gave essential gift to girl_7 with price=861 and value=344 at 2017-04-10 07:05:08.359
+boy_60 gave utility gift to girl_7 with price=929 and value=898 at 2017-04-10 07:05:08.359
+boy_62 gave essential gift to girl_8 with price=752 and value=323 at 2017-04-10 07:05:08.359
+boy_62 gave essential gift to girl_8 with price=858 and value=239 at 2017-04-10 07:05:08.359
+boy_62 gave essential gift to girl_8 with price=861 and value=344 at 2017-04-10 07:05:08.363
+boy_62 gave utility gift to girl_8 with price=929 and value=898 at 2017-04-10 07:05:08.363
+boy_62 gave utility gift to girl_8 with price=1016 and value=974 at 2017-04-10 07:05:08.363
+boy_63 gave essential gift to girl_9 with price=752 and value=323 at 2017-04-10 07:05:08.367
+boy_63 gave essential gift to girl_9 with price=858 and value=239 at 2017-04-10 07:05:08.367
+boy_63 gave essential gift to girl_9 with price=861 and value=344 at 2017-04-10 07:05:08.367
+boy_63 gave utility gift to girl_9 with price=929 and value=898 at 2017-04-10 07:05:08.367
+boy_63 gave utility gift to girl_9 with price=1016 and value=974 at 2017-04-10 07:05:08.367
+boy_64 gave essential gift to girl_10 with price=752 and value=323 at 2017-04-10 07:05:08.371
+boy_64 gave essential gift to girl_10 with price=858 and value=239 at 2017-04-10 07:05:08.371
+boy_64 gave essential gift to girl_10 with price=861 and value=344 at 2017-04-10 07:05:08.371
+boy_64 gave utility gift to girl_10 with price=929 and value=898 at 2017-04-10 07:05:08.371
+boy_65 gave essential gift to girl_11 with price=752 and value=323 at 2017-04-10 07:05:08.375
+boy_65 gave essential gift to girl_11 with price=858 and value=239 at 2017-04-10 07:05:08.375
+boy_65 gave essential gift to girl_11 with price=861 and value=344 at 2017-04-10 07:05:08.375
+boy_65 gave utility gift to girl_11 with price=929 and value=898 at 2017-04-10 07:05:08.375
+boy_72 gave essential gift to girl_12 with price=752 and value=323 at 2017-04-10 07:05:08.375
+boy_72 gave essential gift to girl_12 with price=858 and value=239 at 2017-04-10 07:05:08.379
+boy_72 gave essential gift to girl_12 with price=861 and value=344 at 2017-04-10 07:05:08.379
+boy_72 gave utility gift to girl_12 with price=929 and value=898 at 2017-04-10 07:05:08.379
+boy_73 gave essential gift to girl_13 with price=752 and value=323 at 2017-04-10 07:05:08.383
+boy_73 gave essential gift to girl_13 with price=858 and value=239 at 2017-04-10 07:05:08.383
+boy_73 gave essential gift to girl_13 with price=861 and value=344 at 2017-04-10 07:05:08.383
+boy_73 gave utility gift to girl_13 with price=929 and value=898 at 2017-04-10 07:05:08.387
+girl_1 and boy_3 broke up at 2017-04-10 07:05:08.435
+girl_11 and boy_65 broke up at 2017-04-10 07:05:08.435
+girl_13 and boy_73 broke up at 2017-04-10 07:05:08.435
+girl_9 and boy_63 broke up at 2017-04-10 07:05:08.435
+girl_10 and boy_64 broke up at 2017-04-10 07:05:08.435
+girl_1 got committed to boy_17 at 2017-04-10 07:05:08.439
+girl_9 got committed to boy_28 at 2017-04-10 07:05:08.439
+girl_10 got committed to boy_32 at 2017-04-10 07:05:08.439
+girl_11 got committed to boy_35 at 2017-04-10 07:05:08.439
+girl_13 got committed to boy_36 at 2017-04-10 07:05:08.439
