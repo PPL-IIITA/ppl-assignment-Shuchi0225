@@ -35,15 +35,15 @@ $ java ass.main3
 
 Documentation--
 
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/dist/javadoc
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/tree/master/que3/dist
 
 Class Diagrams--
 
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/dia3.png
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/dia3.pdf
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/dia3.png
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/dia3.pdf
 
 View generated files--
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/girl.csv  : stores details of girls
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/boy.csv  : stores details of boys
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/gift.csv  : stores details of gifts
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que3/log.txt  : stores details of commitments, breakups and giting
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/gift.csv  : stores details of girls
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/boy.csv  : stores details of boys
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/gift.csv  : stores details of gifts
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que3/log.txt  : stores details of commitments, breakups and giting
