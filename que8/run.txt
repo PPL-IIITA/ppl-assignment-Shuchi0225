@@ -39,11 +39,11 @@ https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/tree/master/que8/dist/jav
 
 Class Diagrams--
 
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/dia8.png
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/dia8.pdf
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que8/dia8.png
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que8/dia8.pdf
 
 View generated files--
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/girl.csv  : stores details of girls
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/boy.csv  : stores details of boys
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/gift.csv  : stores details of gifts
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/log.txt  : stores details of commitments, breakups and giting
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que8/girl.csv  : stores details of girls
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que8/boy.csv  : stores details of boys
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que8/gift.csv  : stores details of gifts
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que8/log.txt  : stores details of commitments, breakups and giting
