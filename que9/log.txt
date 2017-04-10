@@ -1,0 +1,27 @@
+girl_0 got committed to boy_11 at 2017-04-10 07:01:08.769
+girl_1 got committed to boy_4 at 2017-04-10 07:01:08.797
+girl_2 got committed to boy_10 at 2017-04-10 07:01:08.797
+girl_3 got committed to boy_5 at 2017-04-10 07:01:08.797
+girl_6 got committed to boy_1 at 2017-04-10 07:01:08.797
+girl_7 got committed to boy_0 at 2017-04-10 07:01:08.797
+girl_8 got committed to boy_17 at 2017-04-10 07:01:08.797
+girl_9 got committed to boy_13 at 2017-04-10 07:01:08.797
+girl_10 got committed to boy_3 at 2017-04-10 07:01:08.801
+girl_12 got committed to boy_6 at 2017-04-10 07:01:08.801
+boy_11 gave luxury gift to girl_0 with price=2436 and value=1993 at 2017-04-10 07:01:08.829
+boy_11 gave luxury gift to girl_0 with price=2868 and value=1760 at 2017-04-10 07:01:08.829
+boy_4 gave luxury gift to girl_1 with price=2436 and value=1993 at 2017-04-10 07:01:08.829
+boy_4 gave luxury gift to girl_1 with price=3120 and value=1825 at 2017-04-10 07:01:08.829
+boy_10 gave luxury gift to girl_2 with price=2436 and value=1993 at 2017-04-10 07:01:08.829
+boy_5 gave luxury gift to girl_3 with price=2436 and value=1993 at 2017-04-10 07:01:08.829
+boy_1 gave luxury gift to girl_6 with price=2436 and value=1993 at 2017-04-10 07:01:08.829
+boy_0 gave luxury gift to girl_7 with price=2436 and value=1993 at 2017-04-10 07:01:08.829
+boy_0 gave luxury gift to girl_7 with price=3120 and value=1825 at 2017-04-10 07:01:08.833
+boy_17 gave luxury gift to girl_8 with price=2436 and value=1993 at 2017-04-10 07:01:08.833
+boy_17 gave luxury gift to girl_8 with price=3120 and value=1825 at 2017-04-10 07:01:08.833
+boy_13 gave luxury gift to girl_9 with price=2436 and value=1993 at 2017-04-10 07:01:08.833
+boy_13 gave utility gift to girl_9 with price=953 and value=558 at 2017-04-10 07:01:08.833
+boy_3 gave luxury gift to girl_10 with price=2436 and value=1993 at 2017-04-10 07:01:08.833
+boy_3 gave luxury gift to girl_10 with price=3120 and value=1825 at 2017-04-10 07:01:08.833
+boy_6 gave luxury gift to girl_12 with price=2436 and value=1993 at 2017-04-10 07:01:08.833
+boy_6 gave luxury gift to girl_12 with price=3120 and value=1825 at 2017-04-10 07:01:08.833
