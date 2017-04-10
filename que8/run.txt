@@ -35,7 +35,7 @@ $ java ass.main8
 
 Documentation--
 
-https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/que8/dist/javadoc
+https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/tree/master/que8/dist/javadoc
 
 Class Diagrams--
 
