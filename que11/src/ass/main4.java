@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Random;
 
 /**
- * run this file for question 4 as it contains main
+ * run this file for question 12 as it contains main
  * @author Shuchi
  */
 public class main4 {
