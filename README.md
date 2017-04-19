@@ -32,3 +32,8 @@ for 9 : https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que9/
 
 for 10: https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/master/que10/run.txt
 
+
+
+details to build, run and view class diagram can be viewed here:
+
+for question 11: https://github.com/PPL-IIITA/ppl-assignment-Shuchi0225/blob/que11%26%2612/que11/run.md
